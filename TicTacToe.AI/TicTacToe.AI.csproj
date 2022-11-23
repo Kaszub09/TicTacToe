@@ -6,8 +6,7 @@
     <Title>TicTacToe.AI</Title>
     <Authors>Kaszub09</Authors>
     <PackageId>$(Authors).$(AssemblyName)</PackageId>
-    <Description>Library for move evaluators of TicTacToe game, both classic and multidimensional variants.
-</Description>
+    <Description>Library for move evaluators of TicTacToe game, both classic and multidimensional variants.</Description>
     <PackageProjectUrl>https://github.com/Kaszub09/TicTacToe</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Kaszub09/TicTacToe</RepositoryUrl>
     <RepositoryType>git</RepositoryType>

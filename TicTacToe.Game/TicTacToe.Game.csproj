@@ -3,16 +3,21 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-	  <LangVersion>8.0</LangVersion>
-	  <AnalysisLevel>none</AnalysisLevel>
-	  <EnableNETAnalyzers>False</EnableNETAnalyzers>
-	  <GenerateDocumentationFile>True</GenerateDocumentationFile>
-	  <PackageId>$(Authors).$(AssemblyName)</PackageId>
-	  <Title>TicTacToeGame</Title>
 	  <Authors>Kaszub09</Authors>
+	  <LangVersion>8.0</LangVersion>
+	  <Authors>Kaszub09</Authors>
+	  <AnalysisLevel>none</AnalysisLevel>
+	  <Authors>Kaszub09</Authors>
+	  <EnableNETAnalyzers>False</EnableNETAnalyzers>
+	  <Authors>Kaszub09</Authors>
+	  <GenerateDocumentationFile>True</GenerateDocumentationFile>
+	  <Authors>Kaszub09</Authors>
+	  <PackageId>$(Authors).$(AssemblyName)</PackageId>
+	  <Authors>Kaszub09</Authors>
+	  <Title>TicTacToeGame</Title>
 	  <Description>Library for playing TicTacToe game, both classic and multidimensional variants.</Description>
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
-	  <PackageTags>TicTacToe; AI; Solver; Game;3DTicTacToejDTicTacToe    <PackageTags>TicTacToe; AI; Solver; Game;3DTicTacToe</PackageTags>    <PackageTags>TicTacToe; AI; Solver; Game;3DTicTacToe</PackageTags>ml;k;icTacToe3D, Multi, Dimension /PackageTaags>>TicTacToe, TicTacToe3D, Multi, Dimensiona>TicTacToe; AI; Solver; Game;3DTicTacToeToel>TTicTacToe; AI; Solver; Game;3DTicTacToeicTacToe, TicTacToe3D, Multi, DimensionaTicTacToe; AI; Solver; Game;3DTicTacToeicTacToe, TicTacToe3D, Multi, Dimensiona</PackageTags>
+	  <PackageTags>TicTacToe; AI; Solver; Game; 3DTicTacToe</PackageTags>
 	  <RepositoryType>git</RepositoryType>
 	  <RepositoryUrl>https://github.com/Kaszub09/TicTacToe</RepositoryUrl>
 	  <PackageProjectUrl>https://github.com/Kaszub09/TicTacToe</PackageProjectUrl>
