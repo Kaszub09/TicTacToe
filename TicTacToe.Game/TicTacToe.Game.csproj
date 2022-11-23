@@ -1,4 +1,18 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+﻿
+    <PackageTags>TicTacToe; AI; Solver; Game;3DTicTacToe</PackageTags>
+    
+
+
+    <PackageTags>TicTacToe; AI; Solver; Game;3DTicTacToe</PackageTags>
+
+
+
+        <PackageTags>TicTacToe; AI; Solver; Game;3DTicTacToe</PackageTags>
+
+
+    TicTacToe; AI; Solver; Game;3DTicTacToe<
+<Pro
+	    <PackageTags>TicTacToe; AI; Solver; Game;3DTicTacToe</PackageTags>ject Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -11,8 +25,10 @@
 	  <Authors>Kaszub09</Authors>
 	  <Description>Library for playing TicTacToe game, both classic and multidimensional variants.</Description>
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
-	  <PackageTags>TicTacToe, TicTacToe3D, Multi, Dimensional</PackageTags>
+	  <PackageTags>TicTacToe; AI; Solver; Game;3DTicTacToejDTicTacToe    <PackageTags>TicTacToe; AI; Solver; Game;3DTicTacToe</PackageTags>    <PackageTags>TicTacToe; AI; Solver; Game;3DTicTacToe</PackageTags>ml;k;icTacToe3D, Multi, Dimension /PackageTaags>>TicTacToe, TicTacToe3D, Multi, Dimensiona>TicTacToe; AI; Solver; Game;3DTicTacToeToel>TTicTacToe; AI; Solver; Game;3DTicTacToeicTacToe, TicTacToe3D, Multi, DimensionaTicTacToe; AI; Solver; Game;3DTicTacToeicTacToe, TicTacToe3D, Multi, Dimensiona</PackageTags>
 	  <RepositoryType>git</RepositoryType>
+	  <RepositoryUrl>https://github.com/Kaszub09/TicTacToe</RepositoryUrl>
+	  <PackageProjectUrl>https://github.com/Kaszub09/TicTacToe</PackageProjectUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
