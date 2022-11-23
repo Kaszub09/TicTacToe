@@ -11,7 +11,7 @@ namespace TicTacToe.AI {
         /// <summary>
         /// Maximum depth when searching game tree. 
         /// If value is greater than number of cells on board, all result are accurate.
-        /// If not, heuristics are used to try and evaulate board, if  depth is reached and putcome  can't b dfetermined.
+        /// If not, heuristics are used to try and evaulate board, if  depth is reached and outcome can't be determined.
         /// In this case player with most possibilities to complete line is considered winner.
         /// </summary>
         public int MaxDepth { get; set; } = 9;
