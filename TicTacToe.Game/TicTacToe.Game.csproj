@@ -1,18 +1,5 @@
 ﻿
-    <PackageTags>TicTacToe; AI; Solver; Game;3DTicTacToe</PackageTags>
-    
-
-
-    <PackageTags>TicTacToe; AI; Solver; Game;3DTicTacToe</PackageTags>
-
-
-
-        <PackageTags>TicTacToe; AI; Solver; Game;3DTicTacToe</PackageTags>
-
-
-    TicTacToe; AI; Solver; Game;3DTicTacToe<
-<Pro
-	    <PackageTags>TicTacToe; AI; Solver; Game;3DTicTacToe</PackageTags>ject Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
